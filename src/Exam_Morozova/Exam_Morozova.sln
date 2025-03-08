@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_Morozova", "Exam_Morozova\Exam_Morozova.csproj", "{F7851A91-AEA7-46A4-A003-FA638D42F3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_Morozova_Test", "Exam_Morozova_Test\Exam_Morozova_Test.csproj", "{C5F27723-9D94-49AC-9884-7C1651A4913E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7851A91-AEA7-46A4-A003-FA638D42F3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7851A91-AEA7-46A4-A003-FA638D42F3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7851A91-AEA7-46A4-A003-FA638D42F3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7851A91-AEA7-46A4-A003-FA638D42F3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F27723-9D94-49AC-9884-7C1651A4913E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F27723-9D94-49AC-9884-7C1651A4913E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F27723-9D94-49AC-9884-7C1651A4913E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F27723-9D94-49AC-9884-7C1651A4913E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C056A465-9631-48F6-B242-03F26005E1C9}
+	EndGlobalSection
+EndGlobal

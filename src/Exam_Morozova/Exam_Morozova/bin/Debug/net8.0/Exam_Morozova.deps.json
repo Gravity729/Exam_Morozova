@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exam_Morozova/1.0.0": {
+        "runtime": {
+          "Exam_Morozova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam_Morozova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

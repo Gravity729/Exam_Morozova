@@ -1,0 +1,14 @@
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\bin\Debug\net8.0\Exam_Morozova.exe
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\bin\Debug\net8.0\Exam_Morozova.deps.json
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\bin\Debug\net8.0\Exam_Morozova.runtimeconfig.json
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\bin\Debug\net8.0\Exam_Morozova.dll
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\bin\Debug\net8.0\Exam_Morozova.pdb
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\obj\Debug\net8.0\Exam_Morozova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\obj\Debug\net8.0\Exam_Morozova.AssemblyInfoInputs.cache
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\obj\Debug\net8.0\Exam_Morozova.AssemblyInfo.cs
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\obj\Debug\net8.0\Exam_Morozova.csproj.CoreCompileInputs.cache
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\obj\Debug\net8.0\Exam_Morozova.dll
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\obj\Debug\net8.0\refint\Exam_Morozova.dll
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\obj\Debug\net8.0\Exam_Morozova.pdb
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\obj\Debug\net8.0\Exam_Morozova.genruntimeconfig.cache
+C:\Users\Фёдор\Desktop\src\Exam_Morozova\Exam_Morozova\obj\Debug\net8.0\ref\Exam_Morozova.dll
